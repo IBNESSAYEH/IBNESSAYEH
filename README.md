@@ -9,11 +9,12 @@
 - 🌱 I'm currently learning **Java**
 - 👨‍💻 All of my projects are available at [my portfolio](https://github.com/IBNESSAYEH/portfolio)
 - 💬 Ask me about **React, Java, Laravel, PHP, JavaScript**
-- 📫 How to reach me: **abdellatifibnessayeh@gmail.com**
+- 📫 How to reach me: [Gmail](mailto:abdellatifibnessayeh@gmail.com)
 
 ### Connect with me:
 
 <a href="https://linkedin.com/in/abdellatif-ibnessayeh-ab6000296" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abdellatif-ibnessayeh-ab6000296" height="20" width="30" /></a>
+<a href="mailto:abdellatifibnessayeh@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/google/google-original.svg" alt="gmail" height="20" width="30" /></a>
 
 ### Languages and Tools:
 
@@ -31,7 +32,14 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/javaee/javaee-ar21.svg" alt="javaee" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="springboot" width="40" height="40"/>
 </p>
+
+### 🚀 Cool New Feature: 
+
+- 💼 I am working on **exciting new open-source projects** with a focus on **kitchen renovation management apps**.
+- 🌟 **Fun fact**: I love collaborating with developers around the world!
 
 ### GitHub Stats:
 

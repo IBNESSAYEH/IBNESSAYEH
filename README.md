@@ -70,8 +70,8 @@
 
 ---
 
-## 😂 Random Dev Meme:
+## Steve McConnell:
 
 <p align="center">
-  <img src="https://meme-api.herokuapp.com/gimme" alt="random meme" />
+  <img src="[https://meme-api.herokuapp.com/gimme](https://miro.medium.com/v2/resize:fit:1400/0*A94hV597SjZWj9bq.jpg)" alt="random meme" />
 </p>
